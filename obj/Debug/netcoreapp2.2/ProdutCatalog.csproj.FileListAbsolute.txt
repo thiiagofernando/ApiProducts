@@ -1,0 +1,14 @@
+/Users/thiago/dev/ProdutCatalog/bin/Debug/netcoreapp2.2/ProdutCatalog.deps.json
+/Users/thiago/dev/ProdutCatalog/bin/Debug/netcoreapp2.2/ProdutCatalog.runtimeconfig.json
+/Users/thiago/dev/ProdutCatalog/bin/Debug/netcoreapp2.2/ProdutCatalog.runtimeconfig.dev.json
+/Users/thiago/dev/ProdutCatalog/bin/Debug/netcoreapp2.2/ProdutCatalog.dll
+/Users/thiago/dev/ProdutCatalog/bin/Debug/netcoreapp2.2/ProdutCatalog.pdb
+/Users/thiago/dev/ProdutCatalog/obj/Debug/netcoreapp2.2/ProdutCatalog.csprojAssemblyReference.cache
+/Users/thiago/dev/ProdutCatalog/obj/Debug/netcoreapp2.2/ProdutCatalog.csproj.CoreCompileInputs.cache
+/Users/thiago/dev/ProdutCatalog/obj/Debug/netcoreapp2.2/ProdutCatalog.RazorAssemblyInfo.cache
+/Users/thiago/dev/ProdutCatalog/obj/Debug/netcoreapp2.2/ProdutCatalog.RazorAssemblyInfo.cs
+/Users/thiago/dev/ProdutCatalog/obj/Debug/netcoreapp2.2/ProdutCatalog.AssemblyInfoInputs.cache
+/Users/thiago/dev/ProdutCatalog/obj/Debug/netcoreapp2.2/ProdutCatalog.AssemblyInfo.cs
+/Users/thiago/dev/ProdutCatalog/obj/Debug/netcoreapp2.2/ProdutCatalog.RazorTargetAssemblyInfo.cache
+/Users/thiago/dev/ProdutCatalog/obj/Debug/netcoreapp2.2/ProdutCatalog.dll
+/Users/thiago/dev/ProdutCatalog/obj/Debug/netcoreapp2.2/ProdutCatalog.pdb
